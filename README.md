@@ -1,5 +1,5 @@
 # HeLU
-Hysteresis Rectified Linear Unit
+[Hysteresis Rectified Linear Unit](https://arxiv.org/abs/2411.10573).
 
 ### Abstract:
 The widely used ReLU is favored for its hardware efficiencyas the implementation at inference is a one bit sign case, yet suffers from
