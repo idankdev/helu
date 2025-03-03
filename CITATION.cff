@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Kimhi
+    given-names: Moshe
+  - family-names: Kashani
+    given-names: Idan
+  - family-names: Baskin
+    given-names: Chaim
+  - family-names: Mendelson
+    given-names: Avi
+title: Hysteresis Activation Function for Efficient Inference
+version: 1.0.0
+url: https://proceedings.mlr.press/v262/kimhi24a.html
+date-released: '2024-03-03'
+preferred-citation:
+  authors:
+    - family-names: Kimhi
+      given-names: Moshe
+    - family-names: Kashani
+      given-names: Idan
+    - family-names: Baskin
+      given-names: Chaim
+    - family-names: Mendelson
+      given-names: Avi
+  title: Hysteresis Activation Function for Efficient Inference
+  url: https://proceedings.mlr.press/v262/kimhi24a.html
+  type: conference-paper
+  pages: 414--422
+  year: '2024'
+  collection-title: Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop
+  conference:
+    name: Proceedings of Machine Learning Research
+  publisher:
+    name: PMLR
