@@ -1,5 +1,7 @@
 # Hysteresis Rectified Linear Unit (HeLU)
-Accepted to 4th NeurIPS Efficient Natural Language and Speech Processing Workshop ([ENLSP-IV 2024](https://neurips2024-enlsp.github.io/))
+Accepted to **The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop** ([ENLSP-IV 2024](https://neurips2024-enlsp.github.io/))
+
+**Authors**: Moshe Kimhi, Idan Kashani, Chaim Baskin, Avi Mendelson
 
 [Poster](https://neurips.cc/virtual/2024/106479)
 
